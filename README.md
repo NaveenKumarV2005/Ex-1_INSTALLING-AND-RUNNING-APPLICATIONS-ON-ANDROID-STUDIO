@@ -49,7 +49,7 @@ Android Studio is the official Integrated Development Environment (IDE) used for
 
 ---
 
-## Creating the Temperature Converter Application
+## Temperature Converter Application
 
 1. Open the project in Android Studio.
 2. Design the user interface using the `activity_main.xml` file.
@@ -67,35 +67,6 @@ Android Studio is the official Integrated Development Environment (IDE) used for
 
 12. Display the converted temperature in the TextView.
 
----
-
-## Step 3 – Create Android Virtual Device (AVD)
-
-An Android Virtual Device is used to test and run the application without requiring a physical Android phone.
-
-### Procedure
-
-1. Open Device Manager in Android Studio.
-2. Click **Create Virtual Device**.
-3. Select a suitable device configuration.
-4. Select and download an Android system image if required.
-5. Finish the configuration and start the emulator.
-6. Select the emulator from the device dropdown menu.
-
----
-
-## Step 4 – Run the Application
-
-1. Open the Temperature Converter project.
-2. Select the configured Android Emulator.
-3. Click the **Run ▶** button in Android Studio.
-4. Wait for the application to build and launch.
-5. Verify that the Temperature Converter screen appears.
-6. Enter a temperature value in Celsius.
-7. Click the **Convert** button.
-8. Verify that the corresponding Fahrenheit value is displayed.
-
----
 
 ## Output
 
